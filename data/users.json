@@ -1,0 +1,81 @@
+[{
+  "_id": "671c52a8261cae0588894a60",
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "password": "$2a$08$aqch.EvY1EFt5wCPDCSza.2OXO.C882JgohBw7Rnpd.GN/HdFEgtS",
+  "role": "client",
+  "code": "123456",
+  "emailValidated": true,
+  "registrationComplete": true,
+  "address": {
+    "number": 10,
+    "street": "Rue de la Paix",
+    "city": "Paris",
+    "zipCode": "75002",
+    "state": "Île-de-France",
+    "country": "France"
+  }
+},
+{
+  "_id": "671c52a8261cae0588894a61",
+  "name": "Jane Doe",
+  "email": "janedoe@example.com",
+  "password": "$2a$08$qeZ3pwy0ZkR.JTGxOLCU4OkNZqLQc0oczMmk519Vp9.dAhfMcoZuK",
+  "role": "client",
+  "code": "654321",
+  "emailValidated": true,
+  "registrationComplete": true,
+  "address": null
+},
+{
+  "_id": "671c52a8261cae0588894a62",
+  "name": "Paul Smith",
+  "email": "paulsmith@example.com",
+  "password": "$2a$08$f6sLeGhVt7s6WcyrILqYpux8KTj8kiHwd2S5p9/FjZGQMb1CuQ1qm",
+  "role": "livreur",
+  "code": "987654",
+  "emailValidated": true,
+  "registrationComplete": true,
+  "deliveryAvailability": false
+},
+{
+  "_id": "671c52a8261cae0588894a63",
+  "name": "Alice Johnson",
+  "email": "alicejohnson@example.com",
+  "password": "$2a$08$uhXwnLPwoVh6cHNJ6fy0Ge6BVDyn8wpOJCPzH6kjxr8KHHQvqB4ti",
+  "role": "livreur",
+  "code": "336536",
+  "emailValidated": true,
+  "registrationComplete": true,
+  "deliveryAvailability": false
+},
+{
+  "_id": "671c52a8261cae0588894a64",
+  "name": "Admin User",
+  "email": "admin@example.com",
+  "password": "$2a$08$5ojNX6ZwhiAc575TFTPIHOPRX.fpkapf6FNuxFB91FM/ehbhUXF8S",
+  "role": "admin",
+  "code": "159765",
+  "emailValidated": true,
+  "registrationComplete": true
+},
+{
+  "_id": "671c52a8261cae0588894a65",
+  "name": "Restaurateur One",
+  "email": "restoone@example.com",
+  "password": "$2a$08$S0yj5XEgqsl1NSHFV1uUsOyPyTWAk3rhDhplJGYkeEZ45P3n1oU7m",
+  "role": "restaurateur",
+  "code": "457841",
+  "emailValidated": true,
+  "registrationComplete": true,
+  "restaurantId": "671ac2d8b3db17d5b5d3db1d"},
+{
+  "_id": "671c52a8261cae0588894a66",
+  "name": "Restaurateur Two",
+  "email": "restotwo@example.com",
+  "password": "$2a$08$jzlnQmIGcfvH/DYTqP13ZOLgjZdpSdH9UxrVywDo.hokCRNx1FfCy",
+  "role": "restaurateur",
+  "code": "632548",
+  "emailValidated": true,
+  "registrationComplete": true,
+  "restaurantId": "671ac2d8b3db17d5b5d3db1c"}]

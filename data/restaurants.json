@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "671ac2d8b3db17d5b5d3db1b",
+    "name": "Bistro Régent",
+    "address": {
+      "street": "Rue de Paris",
+      "number": "123",
+      "city": "Paris",
+      "state": "",
+      "zipCode": "75000",
+      "country": "France"
+    },
+    "speciality": "Français",
+    "phone": "+33612345678",
+    "openingHours": "09:00 - 12:00",
+    "items": [
+      "671c46c3261cae0588894a33",
+      "671c46c3261cae0588894a34",
+      "671c46c3261cae0588894a35",
+      "671c46c3261cae0588894a36",
+      "671c46c3261cae0588894a37",
+      "671c46c3261cae0588894a38"
+    ],
+    "rating": 4.5,
+    "reviews": [],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fbistro_regent%2Fbistro_regent.webp?alt=media&token=39920e29-49da-4c91-8caf-743b866246be",
+    "userId": null,
+    "__v": 0
+  },
+  {
+    "_id": "671ac2d8b3db17d5b5d3db1c",
+    "name": "Spaghetti House",
+    "address": {
+      "street": "Rue de Londres",
+      "number": "123",
+      "city": "London",
+      "state": "",
+      "zipCode": "75000",
+      "country": "Angleterre"
+    },
+    "speciality": "Italien",
+    "phone": "+393471234567",
+    "openingHours": "10:00 - 17:00",
+    "items": [
+      "671c46d9261cae0588894a4d",
+      "671c46d9261cae0588894a4e",
+      "671c46d9261cae0588894a4f",
+      "671c46d9261cae0588894a50",
+      "671c46d9261cae0588894a51",
+      "671c46d9261cae0588894a52",
+      "671c46d9261cae0588894a53",
+      "671c46d9261cae0588894a54",
+      "671c46d9261cae0588894a55",
+      "671c46d9261cae0588894a56",
+      "671c46d9261cae0588894a57",
+      "671c46d9261cae0588894a58",
+      "671c46d9261cae0588894a59",
+      "671c46d9261cae0588894a5a",
+      "671c46d9261cae0588894a5b",
+      "671c46d9261cae0588894a5c"
+    ],
+    "rating": 4.2,
+    "reviews": [],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fspaghetti_house.webp?alt=media&token=69573d50-e885-47bd-9082-50dd11bd2cf9",
+    "userId": "671c52a8261cae0588894a66",
+    "__v": 0
+  },
+  {
+    "_id": "671ac2d8b3db17d5b5d3db1d",
+    "name": "Lotus Garden",
+    "address": {
+      "street": "Rue de Kyoto",
+      "number": "123",
+      "city": "Tokyo",
+      "state": "",
+      "zipCode": "75000",
+      "country": "Japon"
+    },
+    "speciality": "Japonais",
+    "phone": "+819012345678",
+    "openingHours": "11:00 - 20:00",
+    "items": [
+      "671c46d1261cae0588894a3f",
+      "671c46d1261cae0588894a40",
+      "671c46d1261cae0588894a41",
+      "671c46d1261cae0588894a42",
+      "671c46d1261cae0588894a43",
+      "671c46d1261cae0588894a44",
+      "671c46d1261cae0588894a45",
+      "671c46d1261cae0588894a46",
+      "671c46d1261cae0588894a47",
+      "671c46d1261cae0588894a48",
+      "671c46d1261cae0588894a49",
+      "671c46d1261cae0588894a4a",
+      "671c46d1261cae0588894a4b",
+      "671c46d1261cae0588894a4c"
+    ],
+    "rating": 4.8,
+    "reviews": [],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Flotus_garden.webp?alt=media&token=dfb98613-afbf-400e-b968-41fe50507e58",
+    "userId": "671c52a8261cae0588894a65",
+    "__v": 0
+  },
+  {
+    "_id": "671c093eeb788401c5ad75b4",
+    "name": "Georgie's Diner",
+    "address": {
+      "street": "Main Street",
+      "number": "456",
+      "city": "New York",
+      "state": "NY",
+      "zipCode": "10001",
+      "country": "USA"
+    },
+    "speciality": "USA",
+    "phone": "+11234567890",
+    "openingHours": "10:00 - 22:00",
+    "items": [
+      "671c46c9261cae0588894a39",
+      "671c46c9261cae0588894a3a",
+      "671c46c9261cae0588894a3b",
+      "671c46c9261cae0588894a3c",
+      "671c46c9261cae0588894a3d",
+      "671c46c9261cae0588894a3e"
+    ],
+    "rating": 4.5,
+    "reviews": [],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fgeorgies_diner%2Fgeorgies_diner.webp?alt=media&token=fa891011-5c08-4265-8167-479725a2b005",
+    "userId": null,
+    "__v": 0
+  }
+]

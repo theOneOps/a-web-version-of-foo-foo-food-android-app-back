@@ -1,0 +1,751 @@
+[
+    {
+        "name": "burger gourmand au bacon et fromage",
+        "description": "Burger généreux avec du bacon croustillant, du fromage fondant, une galette juteuse et des légumes frais, servi dans un pain brioché. accompagné de frites croustillantes.",
+        "price": 13.5,
+        "category": "burger",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fgeorgies_diner%2Fburger_gourmand_au%20bacon_et_fromage.webp?alt=media&token=3ac0e76f-ba60-45d4-9d86-b3fd743aab45",
+        "restaurantId": 
+            "671c093eeb788401c5ad75b4",
+        "ingredients": [
+            "pain brioché",
+            "bacon croustillant",
+            "fromage cheddar fondant",
+            "galette de bœuf juteuse",
+            "laitue fraîche",
+            "tranches de tomate",
+            "oignons rouges",
+            "cornichons",
+            "sauce burger spéciale",
+            "frites croustillantes"
+        ]
+    },
+    {
+        "name": "burger classique deluxe",
+        "description": "Burger classique agrémenté de laitue, tomates, cornichons et oignons, avec du fromage et une sauce mayonnaise onctueuse, dans un pain aux graines de sésame.",
+        "price": 11.0,
+        "category": "burger",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fgeorgies_diner%2Fburger_classique_deluxe.webp?alt=media&token=000c56f5-cd83-4a2f-8497-f246d3a12948",
+        "restaurantId": 
+            "671c093eeb788401c5ad75b4",
+        "ingredients": [
+            "pain aux graines de sésame",
+            "galette de bœuf",
+            "laitue",
+            "tranches de tomate",
+            "cornichons",
+            "oignons",
+            "fromage",
+            "sauce mayonnaise"
+        ]
+    },
+    {
+        "name": "frites maison avec sauces",
+        "description": "Frites croustillantes et dorées, servies avec une sauce ketchup épicée et de la mayonnaise crémeuse.",
+        "price": 4.0,
+        "category": "frite",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fgeorgies_diner%2Ffrites_maison_avec_sauces.webp?alt=media&token=25f69e86-a31a-4ed0-ad7a-75993f7bf785",
+        "restaurantId": "671c093eeb788401c5ad75b4",
+        "ingredients": [
+            "pommes de terre fraîches",
+            "huile de cuisson",
+            "sel",
+            "sauce ketchup épicée",
+            "mayonnaise crémeuse"
+        ]
+    },
+    {
+        "name": "hot dog classique au fromage et cornichons",
+        "description": "Hot dog servi avec des oignons caramélisés, des cornichons croquants, du fromage fondant et des sauces ketchup et moutarde.",
+        "price": 6.0,
+        "category": "hotdog",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fgeorgies_diner%2Fhot_dog_classique_au_fromage_et_cornichons.webp?alt=media&token=cf0bd69e-1b00-4b02-b764-017f26ecd0c5",
+        "restaurantId": 
+            "671c093eeb788401c5ad75b4",
+        "ingredients": [
+            "pain à hot dog",
+            "saucisse de porc ou bœuf",
+            "fromage cheddar fondant",
+            "oignons caramélisés",
+            "cornichons croquants",
+            "ketchup",
+            "moutarde"
+        ]
+    },
+    {
+        "name": "hot dog gourmet aux oignons et moutarde miel",
+        "description": "Saucisse grillée dans un pain moelleux, garnie d'oignons frits, d'oignons verts et d'une moutarde au miel.",
+        "price": 7.5,
+        "category": "hotdog",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fgeorgies_diner%2Fhot_dog_gourmet_aux_oignons_et_moutarde_miel.webp?alt=media&token=002ea0ee-fce6-4a1d-8c46-0a4411c9c194",
+        "restaurantId": 
+            "671c093eeb788401c5ad75b4",
+        "ingredients": [
+            "pain à hot dog moelleux",
+            "saucisse grillée",
+            "oignons frits",
+            "oignons verts",
+            "moutarde au miel"
+        ]
+    },
+    {
+        "name": "soupe de nouilles aux boulettes de viande",
+        "description": "Soupe de nouilles savoureuse avec boulettes de viande et légumes.",
+        "price": 8.5,
+        "category": "nouilles",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fsoupe_de_nouilles_aux_boulettes_de_viande.webp?alt=media&token=23be0e21-a69d-486f-9cd5-e8fca07b82ce",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "bouillon de légumes ou de poulet",
+            "nouilles",
+            "boulettes de viande",
+            "chou chinois",
+            "carottes",
+            "oignons verts",
+            "ail",
+            "gingembre",
+            "sauce soja",
+            "huile de sésame"
+        ]
+    },
+    {
+        "name": "soupe de nouilles au poulet épicé",
+        "description": "Soupe épicée aux nouilles et tranches de poulet.",
+        "price": 9.0,
+        "category": "nouilles",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fsoupe_de_nouilles_au_poulet_epice.webp?alt=media&token=87a51f6e-9bc0-47ef-926c-d34c1195ef67",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "bouillon épicé",
+            "nouilles",
+            "tranches de poulet",
+            "chili ou piments rouges",
+            "ail",
+            "gingembre",
+            "oignons verts",
+            "poivrons",
+            "sauce soja",
+            "huile de sésame"
+        ]
+    },
+    {
+        "name": "soupe de nouilles aux crevettes et légumes",
+        "description": "Bouillon parfumé avec nouilles, crevettes et légumes.",
+        "price": 9.5,
+        "category": "nouilles",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fsoupe_de_nouilles_aux_crevettes_et_legumes.webp?alt=media&token=4114c92c-0ad5-4fbc-b8f5-bbc0ec360395",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "bouillon parfumé (par exemple, bouillon de poisson ou de légumes)",
+            "nouilles",
+            "crevettes",
+            "chou chinois",
+            "carottes",
+            "oignons verts",
+            "champignons",
+            "ail",
+            "gingembre",
+            "sauce soja",
+            "huile de sésame"
+        ]
+    },
+    {
+        "name": "soupe de nouilles au poulet effiloché",
+        "description": "Bouillon riche aux nouilles et poulet effiloché.",
+        "price": 8.5,
+        "category": "nouilles",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fsoupe_de_nouilles_au_poulet_effiloche.webp?alt=media&token=0aae3a34-9a6e-4fba-8c5b-d1ef5d76353c",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "bouillon riche (poulet ou légumes)",
+            "nouilles",
+            "poulet effiloché",
+            "carottes",
+            "chou chinois",
+            "oignons verts",
+            "ail",
+            "gingembre",
+            "sauce soja",
+            "huile de sésame"
+        ]
+    },
+    {
+        "name": "soupe de nouilles aux boulettes et légumes",
+        "description": "Soupe de nouilles claire aux boulettes de viande et légumes frais.",
+        "price": 8.5,
+        "category": "nouilles",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fsoupe_de_nouilles_aux_boulettes_et_legumes.webp?alt=media&token=0e445ae0-7990-4aa3-bbe9-a0a82091a025",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "bouillon clair",
+            "nouilles",
+            "boulettes de viande",
+            "chou chinois",
+            "carottes",
+            "épinards",
+            "oignons verts",
+            "ail",
+            "gingembre",
+            "sauce soja",
+            "huile de sésame"
+        ]
+    },
+    {
+        "name": "pizza fruits de mer et roquette",
+        "description": "30 cm de diamètre - Pizza garnie de fruits de mer frais - crevettes, moules, calamars - avec mozzarella, roquette et un filet d'huile d'olive sur une pâte fine.",
+        "price": 14.0,
+        "category": "pizza",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fpizza_fruits_de_mer_et_roquette.webp?alt=media&token=06955ce2-ff83-454a-b34f-7a7668603d01",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "pâte à pizza fine",
+            "sauce tomate",
+            "mozzarella",
+            "crevettes",
+            "moules",
+            "calamars",
+            "roquette",
+            "huile d'olive",
+            "ail",
+            "persil",
+            "poivre noir"
+        ]
+    },
+    {
+        "name": "pizza blanche aux champignons et lardons",
+        "description": "30 cm de diamètre - Pizza blanche garnie de champignons frais, de lardons et de mozzarella, sur une base de crème et une pâte fine.",
+        "price": 13.0,
+        "category": "pizza",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fpizza_blanche_aux_champignons_et_lardons.webp?alt=media&token=4e6ea0fe-11aa-47fd-9ec3-30b9d4c74365",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "pâte à pizza fine",
+            "crème fraîche",
+            "mozzarella",
+            "champignons frais",
+            "lardons",
+            "ail",
+            "oignons",
+            "persil",
+            "poivre noir"
+        ]
+    },
+    {
+        "name": "pizza classique au fromage",
+        "description": "30 cm de diamètre - Pizza classique avec une couche de mozzarella, de gruyère et d'emmental, sur une base de sauce tomate  et une pâte fine.",
+        "price": 10.0,
+        "category": "pizza",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fpizza_classique_au_fromage.webp?alt=media&token=96f5cc0b-19a3-414d-a229-b3be603df9bf",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "pâte à pizza fine",
+            "sauce tomate",
+            "mozzarella",
+            "gruyère",
+            "emmental",
+            "origan",
+            "huile d'olive"
+        ]
+    },
+    {
+        "name": "pizza margherita classique",
+        "description": "30 cm de diamètre - Pizza Margherita classique avec une base de sauce tomate, garnie de mozzarella, de feuilles de basilic frais et d'un filet d'huile d'olive, sur une pâte fine.",
+        "price": 9.0,
+        "category": "pizza",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fpizza_margherita_classique.webp?alt=media&token=ddc258be-1d25-4e1c-94bf-f28616bac4ef",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "pâte à pizza fine",
+            "sauce tomate",
+            "mozzarella",
+            "basilic frais",
+            "huile d'olive",
+            "sel",
+            "poivre noir"
+        ]
+    },
+    {
+        "name": "nigiri crevette cuite",
+        "description": "Ensemble de 4 nigiri avec crevette cuite.",
+        "price": 4.0,
+        "category": "sushi",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fnigiri_crevette_cuite.webp?alt=media&token=bac363a1-0612-414b-a1b5-581ae8ea9bed",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "riz à sushi",
+            "crevette cuite",
+            "vinaigre de riz",
+            "sucre",
+            "sel",
+            "wasabi (optionnel)"
+        ]
+    },
+    {
+        "name": "nigiri au thon rouge",
+        "description": "Nigiri simple au thon rouge frais.",
+        "price": 4.5,
+        "category": "sushi",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fnigiri_au_thon_rouge.webp?alt=media&token=c34fab1e-f0e6-493d-8a23-4c1b989fe5c7",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "riz à sushi",
+            "thon rouge frais",
+            "vinaigre de riz",
+            "sucre",
+            "sel",
+            "wasabi (optionnel)"
+        ]
+    },
+    {
+        "name": "nigiri au saumon",
+        "description": "Nigiri classique avec tranche de saumon frais.",
+        "price": 4.0,
+        "category": "sushi",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fnigiri_au_saumon.webp?alt=media&token=ce275b15-fe8d-4a72-a301-52e111412b04",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "riz à sushi",
+            "saumon frais",
+            "vinaigre de riz",
+            "sucre",
+            "sel",
+            "wasabi (optionnel)"
+        ]
+    },
+    {
+        "name": "assortiment de nigiri saumon et thon rouge",
+        "description": "Assortiment de nigiri avec saumon et thon rouge.",
+        "price": 8.5,
+        "category": "sushi",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fassortiment_de_nigiri_saumon_et_thon_rouge.webp?alt=media&token=804a0385-948d-482d-b8bd-5f9fc9270000",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "riz à sushi",
+            "saumon frais",
+            "thon rouge frais",
+            "vinaigre de riz",
+            "sucre",
+            "sel",
+            "wasabi (optionnel)"
+        ]
+    },
+    {
+        "name": "california roll au saumon et oignons frits",
+        "description": "8 pièces de california rolls avec saumon et oignons fris.",
+        "price": 9.5,
+        "category": "maki",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fcalifornia_roll_au_saumon_et_oignons_frits.webp?alt=media&token=888fb418-ceec-49fa-be2e-5a0d8b0e2b34",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "riz à sushi",
+            "saumon frais",
+            "oignons frits",
+            "avocat",
+            "feuille de nori",
+            "vinaigre de riz",
+            "sésame",
+            "mayonnaise (optionnel)"
+        ]
+    },
+    {
+        "name": "california roll saumon-avocat",
+        "description": "8 pièces de california rolls au saumon et avocat.",
+        "price": 9.0,
+        "category": "maki",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Flotus_garden%2Fcalifornia_roll_saumon_avocat.webp?alt=media&token=34b21c65-4e2c-487f-af19-76fe0cee5f28",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1d",
+        "ingredients": [
+            "riz à sushi",
+            "saumon frais",
+            "avocat",
+            "feuille de nori",
+            "vinaigre de riz",
+            "sésame",
+            "mayonnaise (optionnel)"
+        ]
+    },
+    {
+        "name": "penne aux champignons et parmesan",
+        "description": "Penne servies avec une sauce crémeuse aux champignons, agrémentées de parmesan et de feuilles de basilic pour une touche de fraîcheur.",
+        "price": 10.5,
+        "category": "pâte",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fpenne_aux_champignons_et_parmesan.webp?alt=media&token=0b58c11b-b875-41b5-8267-53418f5fd877",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "penne",
+            "champignons frais",
+            "crème fraîche",
+            "parmesan râpé",
+            "ail",
+            "oignon",
+            "huile d'olive",
+            "sel",
+            "poivre noir",
+            "feuilles de basilic"
+        ]
+    },
+    {
+        "name": "penne à la sauce tomate et herbes",
+        "description": "Penne servies avec une sauce tomate riche et épicée, garnies de copeaux de fromage et d'herbes fraîches.",
+        "price": 9.0,
+        "category": "pâte",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fpenne_a_la_sauce_tomate_et_herbes.webp?alt=media&token=1c19f940-6f45-4332-b2ad-c43eb348163c",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "penne",
+            "sauce tomate",
+            "ail",
+            "oignon",
+            "basilic frais",
+            "origan",
+            "flocons de piment (optionnel)",
+            "huile d'olive",
+            "sel",
+            "poivre noir",
+            "copeaux de fromage (parmesan ou pecorino)"
+        ]
+    },
+    {
+        "name": "penne aux crevettes et tomates cerises",
+        "description": "Penne délicatement mélangées avec des crevettes sautées et des tomates cerises fraîches, le tout relevé avec des touches de basilic et d'ail.",
+        "price": 12.0,
+        "category": "pâte",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fpenne_aux_crevettes_et_tomates_cerises.webp?alt=media&token=93eb9c7c-2789-4f4e-8be9-24d8ff0d74a9",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "penne",
+            "crevettes",
+            "tomates cerises",
+            "ail",
+            "huile d'olive",
+            "basilic frais",
+            "sel",
+            "poivre noir",
+            "zeste de citron (optionnel)"
+        ]
+    },
+    {
+        "name": "spaghetti carbonara classique",
+        "description": "Spaghetti enrobés d'une sauce crémeuse au parmesan et au jaune d'œuf, avec des morceaux de lard croustillant, le tout garni de basilic frais.",
+        "price": 11.5,
+        "category": "pâte",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fspaghetti_carbonara_classique.webp?alt=media&token=a990f416-f286-4715-9dd1-df9697797f0c",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "spaghetti",
+            "parmesan râpé",
+            "jaunes d'œuf",
+            "lardons croustillants",
+            "poivre noir",
+            "basilic frais (optionnel)"
+        ]
+    },
+    {
+        "name": "spaghetti aux saucisses et herbes",
+        "description": "Spaghetti accompagnés de tranches de saucisses grillées et d'herbes fraîches, servis avec une sauce légère et crémeuse.",
+        "price": 12.0,
+        "category": "pâte",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fspaghetti_aux_saucisses_et_herbes.webp?alt=media&token=fb770e4f-2464-45d0-b39b-31af020db18a",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "spaghetti",
+            "saucisses grillées",
+            "crème fraîche",
+            "ail",
+            "oignon",
+            "basilic frais",
+            "persil",
+            "huile d'olive",
+            "sel",
+            "poivre noir"
+        ]
+    },
+    {
+        "name": "tagliatelles au pesto vert",
+        "description": "Tagliatelles fraîches nappées d'un pesto de basilic vibrant et garnies de parmesan râpé, avec une touche de tomate cerise pour la fraîcheur.",
+        "price": 10.0,
+        "category": "pâte",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Ftagliatelles_au_pesto_vert.webp?alt=media&token=4bcce757-6098-4a1d-b5c4-9128047e4845",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "tagliatelles fraîches",
+            "pesto de basilic",
+            "parmesan râpé",
+            "tomates cerises",
+            "ail",
+            "pignons de pin",
+            "huile d'olive",
+            "sel",
+            "poivre noir"
+        ]
+    },
+    {
+        "name": "tagliatelles aux haricots rouges et tomates",
+        "description": "Tagliatelles servies avec une sauce tomate aux haricots rouges, relevée de légumes et d'épices méditerranéennes.",
+        "price": 9.5,
+        "category": "pâte",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Ftagliatelles_aux_haricots_rouges_et_tomates.webp?alt=media&token=d92756d1-2fbf-46cb-86b0-542b7ab69563",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "tagliatelles",
+            "haricots rouges",
+            "sauce tomate",
+            "oignon",
+            "ail",
+            "poivrons",
+            "courgettes",
+            "basilic",
+            "origan",
+            "huile d'olive",
+            "sel",
+            "poivre noir"
+        ]
+    },
+    {
+        "name": "tiramisu classique",
+        "description": "Part de tiramisu classique à emporter.",
+        "price": 5.0,
+        "category": "dessert",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Ftiramisu_classique.webp?alt=media&token=483aaa06-b776-4109-818c-7d6c5ba1fa96",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "mascarpone",
+            "café",
+            "biscuits à la cuillère",
+            "cacao en poudre",
+            "œufs",
+            "sucre",
+            "extrait de vanille (optionnel)"
+        ]
+    },
+    {
+        "name": "cannoli à la ricotta et pistache",
+        "description": "Cannoli à la crème de ricotta, garni de pistaches.",
+        "price": 4.5,
+        "category": "dessert",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fcannoli_a_la_ricotta_et_pistache.webp?alt=media&token=dcb0aa99-6939-47a8-8912-8879414a31b4",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "pâte à cannoli",
+            "ricotta",
+            "sucre",
+            "extrait de vanille",
+            "zeste d'orange (optionnel)",
+            "pistaches concassées",
+            "pépites de chocolat (optionnel)"
+        ]
+    },
+    {
+        "name": "crêpes aux fraises et chantilly",
+        "description": "Délicieuses crêpes fourrées aux fraises fraîches, garnies de crème chantilly et sauce chocolat.",
+        "price": 4.5,
+        "category": "dessert",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fbistro_regent%2Fcrepes_aux_fraises_et_chantilly.webp?alt=media&token=a9ad2084-72d2-4c5c-a261-7ee27fe2be18",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1b",
+        "ingredients": [
+            "pâte à crêpes",
+            "fraises fraîches",
+            "crème chantilly",
+            "sauce chocolat",
+            "sucre en poudre (optionnel)"
+        ]
+    },
+    {
+        "name": "quiche aux champignons et fromage",
+        "description": "Quiche savoureuse aux champignons, fromage et oignons, accompagnée d'une salade fraîche.",
+        "price": 6.9,
+        "category": "quiche",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fbistro_regent%2Fquiche_aux_champignons_et_fromage.webp?alt=media&token=44e150bd-9bb5-4ad2-b406-5871ea72b96e",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1b",
+        "ingredients": [
+            "pâte brisée",
+            "champignons frais",
+            "fromage râpé (emmental ou gruyère)",
+            "oignons",
+            "crème fraîche",
+            "œufs",
+            "sel",
+            "poivre noir",
+            "herbes (persil ou ciboulette, optionnel)"
+        ]
+    },
+    {
+        "name": "quiche aux légumes de saison",
+        "description": "Quiche aux légumes grillés et fromage, parfaite pour un repas léger et gourmand.",
+        "price": 7.2,
+        "category": "quiche",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fbistro_regent%2Fquiche_aux_legumes_de_saison.webp?alt=media&token=b9147898-493a-4b04-a591-ce22eeef7a35",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1b",
+        "ingredients": [
+            "pâte brisée",
+            "courgettes",
+            "poivrons",
+            "tomates cerises",
+            "oignons",
+            "fromage râpé (emmental ou gruyère)",
+            "crème fraîche",
+            "œufs",
+            "sel",
+            "poivre noir",
+            "herbes de Provence"
+        ]
+    },
+    {
+        "name": "gnocchis à la crème d'épinards",
+        "description": "Gnocchis moelleux enrobés d'une sauce crémeuse aux épinards.",
+        "price": 10.5,
+        "category": "gnocchi",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fgnocchis_a_la_creme_depinards.webp?alt=media&token=9bc51067-1106-465e-9c81-1d747c602d8a",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "gnocchis",
+            "épinards frais",
+            "crème fraîche",
+            "ail",
+            "parmesan râpé",
+            "huile d'olive",
+            "sel",
+            "poivre noir",
+            "noix de muscade (optionnel)"
+        ]
+    },
+    {
+        "name": "gnocchis au beurre et parmesan",
+        "description": "Gnocchis simples et savoureux, agrémentés de beurre et de parmesan.",
+        "price": 9.0,
+        "category": "gnocchi",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fgnocchis_au_beurre_et_parmesan.webp?alt=media&token=f4d40075-2ebf-4389-b5e9-59007127dbdf",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "gnocchis",
+            "beurre",
+            "parmesan râpé",
+            "sel",
+            "poivre noir",
+            "persil frais (optionnel)"
+        ]
+    },
+    {
+        "name": "gnocchis aux noix et sauce crémeuse",
+        "description": "Gnocchis accompagnés de sauce crémeuse aux épinards et garniture de noix.",
+        "price": 11.0,
+        "category": "gnocchi",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fspaghetti_house%2Fgnocchis_aux_noix_et_sauce_cremeuse.webp?alt=media&token=1be323af-1b45-4e48-a5d9-0cbda6d76dc1",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1c",
+        "ingredients": [
+            "gnocchis",
+            "épinards frais",
+            "crème fraîche",
+            "noix",
+            "ail",
+            "parmesan râpé",
+            "huile d'olive",
+            "sel",
+            "poivre noir",
+            "noix de muscade (optionnel)"
+        ]
+    },
+    {
+        "name": "salade césar au poulet grillé",
+        "description": "Salade César classique avec poulet grillé, croûtons, parmesan, et une touche d'œuf dur.",
+        "price": 8.0,
+        "category": "salade",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fbistro_regent%2Fsalade_cesar_au_poulet_grille.webp?alt=media&token=0355a132-7c67-44ee-ad4b-94cbde6ba9f3",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1b",
+        "ingredients": [
+            "laitue romaine",
+            "poulet grillé",
+            "parmesan râpé",
+            "croûtons",
+            "œuf dur",
+            "sauce César",
+            "ail",
+            "jus de citron",
+            "huile d'olive",
+            "sel",
+            "poivre noir"
+        ]
+    },
+    {
+        "name": "croque-monsieur",
+        "description": "Sandwich gratiné au jambon et fromage avec une touche de béchamel, servi croustillant et fondant.",
+        "price": 5.0,
+        "category": "sandwich",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fbistro_regent%2Fcroque_monsieur.webp?alt=media&token=bc924d51-3592-4530-8ea3-da34e9b82b09",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1b",
+        "ingredients": [
+            "pain de mie",
+            "jambon",
+            "fromage râpé (emmental ou gruyère)",
+            "sauce béchamel",
+            "beurre",
+            "sel",
+            "poivre noir"
+        ]
+    },
+    {
+        "name": "sandwich jambon-emmental",
+        "description": "Baguette française croustillante garnie de jambon de qualité et d'emmental",
+        "price": 3.5,
+        "category": "sandwich",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fbistro_regent%2Fsandwich_jambon_emmental.webp?alt=media&token=16fdac46-212d-4b79-9852-8b8c9ae7cde7",
+        "restaurantId": 
+            "671ac2d8b3db17d5b5d3db1b",
+        "ingredients": [
+            "baguette française",
+            "jambon",
+            "emeantal"
+        ]
+    },
+    {
+        "name": "sandwich poulet crudités",
+        "description": "Baguette garnie de poulet grillé, tomates, laitue, concombres et une touche de mayonnaise pour la fraîcheur.",
+        "price": 4.0,
+        "category": "sandwich",
+        "image": "https://firebasestorage.googleapis.com/v0/b/foo-foo-food-demo.appspot.com/o/images%2Fbistro_regent%2Fsandwich_poulet_crudites.webp?alt=media&token=e05e8223-c281-4851-84a9-d2f40a29421d",
+        "restaurantId":
+            "671ac2d8b3db17d5b5d3db1b",
+        "ingredients": [
+            "baguette",
+            "poulet grillé",
+            "tomates",
+            "laitue",
+            "concombres",
+            "mayonnaise",
+            "sel",
+            "poivre noir"
+        ]
+    }
+]
